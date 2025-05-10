@@ -1,5 +1,6 @@
 {
-  "homepage": "https://ikjasrasool.github.io/library",
+  "homepage": "."
+,
   "name": "login-app",
   "version": "0.1.0",
   "private": true,
